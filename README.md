@@ -1,2 +1,2 @@
 # Zoom
-A full stack video conferencing web application.
+This is my first full stack project clone of zoom
